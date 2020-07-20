@@ -678,7 +678,7 @@ public class AdvancedMemory : MonoBehaviour
             case ("15 Mystic Lights"): r = 411; break;
             case ("Rainbow Arrows"): r = 056; break;
             case ("Time Signatures"): r = 131; break;
-            case ("Multi-Colored Switches"): r = 069; break;
+            case ("Multicolored Switches"): r = 069; break;
             case ("Digital Dials"): r = 167; break;
             case ("Passcodes"): r = 607; break;
             case ("Hereditary Base Notation"): r = 718; break;
